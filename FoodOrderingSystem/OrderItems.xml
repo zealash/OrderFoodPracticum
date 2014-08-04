@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FoodOrderItems>
+  <Morning>
+    <Entree>Eggs</Entree>
+    <Side>Toast</Side>
+    <Drink>Coffee</Drink>
+    <Dessert></Dessert>
+  </Morning>
+  <Night>
+    <Entree>Steak</Entree>
+    <Side>Potato</Side>
+    <Drink>Wine</Drink>
+    <Dessert>Cake</Dessert>
+  </Night>
+</FoodOrderItems>
