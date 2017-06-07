@@ -35,3 +35,13 @@ Dish Type morning night
 3 (drink) coffee wine
 
 4 (dessert) Not Applicable cake
+
+====================================================================
+
+Console Input Format :
+----------------------
+( enter time of day as “morning” or “night”  and comma delimited list of dish types with at least one selection )
+
+      morning,1,2,3,4
+      
+      night,1,3,4
